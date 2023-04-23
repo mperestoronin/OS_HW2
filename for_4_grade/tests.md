@@ -1,7 +1,7 @@
 # Тесты
 ### Тест 1
 Hello world!
-<br>![](https://github.com/mperestoronin/OS_HW2/blob/main/photos/1v2.png)
+![](https://github.com/mperestoronin/OS_HW2/blob/main/photos/1v2.png)
 ### Тест 2
 The French Revolution was a period of political and social upheaval in France from 1789 to 1799. It was a time of radical changes that led to the establishment of a democratic and secular republic in France.
 <br>![](https://github.com/mperestoronin/OS_HW2/blob/main/photos/2v2.png)
