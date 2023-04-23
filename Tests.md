@@ -1,7 +1,7 @@
 Результаты тестов каждой из программ смотрите в соответсвующей папке.
 
 Тест 1:
-<br>Hello_world!
+<br>Hello world!
 
 Тест 2:
 <br>The French Revolution was a period of political and social upheaval in France from 1789 to 1799. It was a time of radical changes that led to the establishment of a democratic and secular republic in France.
