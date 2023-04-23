@@ -4,13 +4,13 @@
 <br>Hello_world!
 
 Тест 2:
-<br>Linux_is_a_family_of_open-source_Unix-like_operating_systems_based_on_the_Linux_kernel,_an_operating_system_kernel_first_released_on_September_17,_1991,_by_Linus_Torvalds.
+<br>The French Revolution was a period of political and social upheaval in France from 1789 to 1799. It was a time of radical changes that led to the establishment of a democratic and secular republic in France.
 
 Тест 3:
-<br>Chess_is_a_board_game_for_two_players,_called_White_and_Black,_each_controlling_an_army_of_chess_pieces_in_their_color,_with_the_objective_to_checkmate_the opponents_king.
+<br>The colonization of Mars is a concept that has been explored by scientists and space enthusiasts for many years. Mars is the fourth planet from the sun and is often referred to as the "Red Planet" due to its reddish appearance.
 
 Тест 4:
-<br>IKEA_is_a_Swedish_furniture_retailer_known_for_its_affordable_and_stylish_products._Founded_in_1943_by_Ingvar_Kamprad,_IKEA_has_since_grown_into_a_global_brand_with_stores_in_over_50_countries._One_of_IKEA's_unique_features_is_its_use_of_flat-pack_furniture,which_allows_for_easy_transport_and_assembly_by_the_consumer.
+<br>Rainbow Six Siege is a tactical shooter that emphasizes teamwork and strategy. Players assume the role of either an attacker or defender in a variety of game modes that involve either capturing or defending a particular objective. 
 
 Тест 5:
-<br>The_French_Revolution_was_a_period_of_radical_social_and_political_upheaval_in_France_from_1789_to_1799._The_revolution_was_marked_by_the_toppling_of_the_Ancien_Regime,_a_period_of_French_history_characterized_by_monarchy,_feudalism,_and_the_division_of_society_into_three_estates._The_French_Revolution_ushered_in_a_new_era_of_freedoms_and_rights,_including_liberty_and_equality.
+<br>Chess is a strategic board game that is played between two players. It is widely considered to be one of the oldest and most popular games in the world, with its origins dating back over 1500 years to India.
